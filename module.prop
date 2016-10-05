@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=Nexus Bootanimation
+name=Nexus Bootanimation
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=KaMyKaSii
+description=Bootanimation of Nexus 7.0
 support=http://forum.xda-developers.com/showthread.php?t=3432382
 donate=http://topjohnwu.github.io/donate
-cacheModule=false
+cacheModule=true
